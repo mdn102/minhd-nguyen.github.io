@@ -6,7 +6,7 @@
 ![Hompage](https://res.cloudinary.com/djhte2ard/image/upload/v1600015175/homepage_ujkuyl.png)
 
 ### Website Link
-[MinhNguyen Portfolio](https://minhdnguyen.com/)
+[MinhNguyen Portfolio](https://minhd-nguyen.github.io/)
 
 
 ### Website was developed by
