@@ -14,7 +14,7 @@ function Il() {
 	var nextTalent = function() {
 		currentIndex = currentIndex + 1 < talents.length ? currentIndex + 1 : 0;
 	};
-	var talentElement = $('#flyup');
+	var talentElement = ('#flyup');
 	var flyTalents = function() {
 		talentElement.fadeOut(200, function () {
 			nextTalent();
